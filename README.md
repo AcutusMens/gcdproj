@@ -24,8 +24,8 @@ data.table library is used for reading files in because of its speed. You will a
 
 ## Requirement 4:
 
-This is fulfilled by reading in features.txt and using the resulting vector as column names.
-We add "subject" and "activity" as column names for the appropriate columns.
+This is fulfilled by reading in features.txt and using the resulting vector as column headers for X_train / X_test.
+We add "subject" and "activity" as column headers for subject_train / subject_test and y_train / y_test pieces respectively as you can see in the diagram above.
 
 ## Requirement 2:
 
