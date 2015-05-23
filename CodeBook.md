@@ -50,269 +50,265 @@ activity
   - laying &nbsp;&nbsp;&nbsp;&nbsp; Laying
 
 tBodyAcc-mean()-X
-    - Time domain body accelerometer signal mean in the X direction
+ - Time domain body accelerometer signal mean in the X direction
         -1 to 1
 
 tBodyAcc-mean()-Y
-
-    - Time domain body accelerometer signal mean in the Y direction
+ - Time domain body accelerometer signal mean in the Y direction
         -1 to 1
 
 tBodyAcc-mean()-Z
-
-    - Time domain body accelerometer signal mean in the Z direction
+ - Time domain body accelerometer signal mean in the Z direction
         -1 to 1
 
 tGravityAcc-mean()-X
-
-    - Time domain gravity accelerometer signal mean in the X direction
+ - Time domain gravity accelerometer signal mean in the X direction
         -1 to 1
 
 tGravityAcc-mean()-Y
-
-    - Time domain gravity accelerometer signal mean in the Y direction
+ - Time domain gravity accelerometer signal mean in the Y direction
         -1 to 1
 
 tGravityAcc-mean()-Z
-    - Time domain gravity accelerometer signal mean in the Z direction
+ - Time domain gravity accelerometer signal mean in the Z direction
         -1 to 1
 
 tBodyAccJerk-mean()-X
-    - Time domain body accelerometer jerk signal mean in the X direction
+ - Time domain body accelerometer jerk signal mean in the X direction
         -1 to 1
 
 tBodyAccJerk-mean()-Y
-    - Time domain body accelerometer jerk signal mean in the Y direction
+ - Time domain body accelerometer jerk signal mean in the Y direction
         -1 to 1
 
 tBodyAccJerk-mean()-Z
-    - Time domain body accelerometer jerk signal mean in the Z direction
+ - Time domain body accelerometer jerk signal mean in the Z direction
         -1 to 1
 
 tBodyGyro-mean()-X
-    - Time domain body gyroscope signal mean in the X direction
+ - Time domain body gyroscope signal mean in the X direction
         -1 to 1
 
 tBodyGyro-mean()-Y
-    - Time domain body gyroscope signal mean in the Y direction
+ - Time domain body gyroscope signal mean in the Y direction
         -1 to 1
 
 tBodyGyro-mean()-Z
-    - Time domain body gyroscope signal mean in the Z direction
+ - Time domain body gyroscope signal mean in the Z direction
         -1 to 1
 
 tBodyGyroJerk-mean()-X
-    - Time domain body gyroscope jerk signal mean in the X direction
+ - Time domain body gyroscope jerk signal mean in the X direction
         -1 to 1
 
 tBodyGyroJerk-mean()-Y
-    - Time domain body gyroscope jerk signal mean in the Y direction
+ - Time domain body gyroscope jerk signal mean in the Y direction
         -1 to 1
 
 tBodyGyroJerk-mean()-Z
-    - Time domain body gyroscope jerk signal in mean the Z direction
+ - Time domain body gyroscope jerk signal in mean the Z direction
         -1 to 1
 
 tBodyAccMag-mean()
-    - Time domain body accelerometer magnitude signal mean over X, Y, and Z measurements
+ - Time domain body accelerometer magnitude signal mean over X, Y, and Z measurements
         -1 to 1
 
 tGravityAccMag-mean()
-    - Time domain gravity accelerometer magnitude signal mean over X, Y, and Z measurements
+ - Time domain gravity accelerometer magnitude signal mean over X, Y, and Z measurements
         -1 to 1
 
 tBodyAccJerkMag-mean()
-    - Time domain body accelerometer jerk magnitude signal mean over X, Y, and Z measurements
+ - Time domain body accelerometer jerk magnitude signal mean over X, Y, and Z measurements
         -1 to 1
 
 tBodyGyroMag-mean()
-    - Time domain body gyroscope magnitude signal mean over X, Y, and Z measurements
+ - Time domain body gyroscope magnitude signal mean over X, Y, and Z measurements
         -1 to 1
 
 tBodyGyroJerkMag-mean()
-    - Time domain body gyroscope jerk magnitude signal mean over X, Y, and Z measurements
+ - Time domain body gyroscope jerk magnitude signal mean over X, Y, and Z measurements
         -1 to 1
 
 fBodyAcc-mean()-X
-    - Frequency domain body accelerometer signal mean in the X direction
+ - Frequency domain body accelerometer signal mean in the X direction
         -1 to 1
 
 fBodyAcc-mean()-Y
-    - Frequency domain body accelerometer signal mean in the Y direction
+ - Frequency domain body accelerometer signal mean in the Y direction
         -1 to 1
 
 fBodyAcc-mean()-Z
-    - Frequency domain body accelerometer signal mean in the Z direction
+ - Frequency domain body accelerometer signal mean in the Z direction
         -1 to 1
 
 fBodyAccJerk-mean()-X
-    - Frequency domain body accelerometer jerk signal mean in the X direction
+ - Frequency domain body accelerometer jerk signal mean in the X direction
         -1 to 1
 
 fBodyAccJerk-mean()-Y
-    - Frequency domain body accelerometer jerk signal mean in the Y direction
+ - Frequency domain body accelerometer jerk signal mean in the Y direction
         -1 to 1
 
 fBodyAccJerk-mean()-Z
-    - Frequency domain body accelerometer jerk signal mean in the Z direction
+ - Frequency domain body accelerometer jerk signal mean in the Z direction
         -1 to 1
 
 fBodyGyro-mean()-X
-    - Frequency domain body gyroscope signal mean in the X direction
+ - Frequency domain body gyroscope signal mean in the X direction
         -1 to 1
 
 fBodyGyro-mean()-Y
-    - Frequency domain body gyroscope signal mean in the Y direction
+ - Frequency domain body gyroscope signal mean in the Y direction
         -1 to 1
 
 fBodyGyro-mean()-Z
-    - Frequency domain body gyroscope signal mean in the Z direction
+ - Frequency domain body gyroscope signal mean in the Z direction
         -1 to 1
 
 fBodyAccMag-mean()
-    - Frequency domain body accelerometer magnitude signal mean over X, Y, and Z measurements
+ - Frequency domain body accelerometer magnitude signal mean over X, Y, and Z measurements
         -1 to 1
 
 fBodyBodyAccJerkMag-mean()
-    - Frequency domain body accelerometer jerk  magnitude signal mean over X, Y, and Z measurements
+ - Frequency domain body accelerometer jerk  magnitude signal mean over X, Y, and Z measurements
         -1 to 1
 
 fBodyBodyGyroMag-mean()
-    - Frequency domain body gyroscope magnitude signal mean over X, Y, and Z measurements
+ - Frequency domain body gyroscope magnitude signal mean over X, Y, and Z measurements
         -1 to 1
 
 fBodyBodyGyroJerkMag-mean()
-    - Frequency domain body gyroscope jerk magnitude signal mean over X, Y, and Z measurements
+ - Frequency domain body gyroscope jerk magnitude signal mean over X, Y, and Z measurements
         -1 to 1
 
 tBodyAcc-std()-X
-    - Time domain body accelerometer signal standard deviation in the X direction
+ - Time domain body accelerometer signal standard deviation in the X direction
         -1 to 1
 
 tBodyAcc-std()-Y
-    - Time domain body accelerometer signal standard deviation in the Y direction
+ - Time domain body accelerometer signal standard deviation in the Y direction
         -1 to 1
 
 tBodyAcc-std()-Z
-    - Time domain body accelerometer signal standard deviation in the Z direction
+ - Time domain body accelerometer signal standard deviation in the Z direction
         -1 to 1
 
 tGravityAcc-std()-X
-    - Time domain gravity accelerometer signal standard deviation in the X direction
+ - Time domain gravity accelerometer signal standard deviation in the X direction
         -1 to 1
 
 tGravityAcc-std()-Y
-    - Time domain gravity accelerometer signal standard deviation in the Y direction
+ - Time domain gravity accelerometer signal standard deviation in the Y direction
         -1 to 1
 
 tGravityAcc-std()-Z
-    - Time domain gravity accelerometer signal standard deviation in the Z direction
+ - Time domain gravity accelerometer signal standard deviation in the Z direction
         -1 to 1
 
 tBodyAccJerk-std()-X
-    - Time domain body accelerometer jerk signal standard deviation in the X direction
+ - Time domain body accelerometer jerk signal standard deviation in the X direction
         -1 to 1
 
 tBodyAccJerk-std()-Y
-    - Time domain body accelerometer jerk signal standard deviation in the Y direction
+ - Time domain body accelerometer jerk signal standard deviation in the Y direction
         -1 to 1
 
 tBodyAccJerk-std()-Z
-    - Time domain body accelerometer jerk signal standard deviation in the Z direction
+ - Time domain body accelerometer jerk signal standard deviation in the Z direction
         -1 to 1
 
 tBodyGyro-std()-X
-    - Time domain body gyroscope signal standard deviation in the X direction
+ - Time domain body gyroscope signal standard deviation in the X direction
         -1 to 1
 
 tBodyGyro-std()-Y
-    - Time domain body gyroscope signal standard deviation in the Y direction
+ - Time domain body gyroscope signal standard deviation in the Y direction
         -1 to 1
 
 tBodyGyro-std()-Z
-    - Time domain body gyroscope signal standard deviation in the Z direction
+ - Time domain body gyroscope signal standard deviation in the Z direction
         -1 to 1
 
 tBodyGyroJerk-std()-X
-    - Time domain body gyroscope jerk signal standard deviation in the X direction
+ - Time domain body gyroscope jerk signal standard deviation in the X direction
         -1 to 1
 
 tBodyGyroJerk-std()-Y
-    - Time domain body gyroscope jerk signal standard deviation in the Y direction
+ - Time domain body gyroscope jerk signal standard deviation in the Y direction
         -1 to 1
 
 tBodyGyroJerk-std()-Z
-    - Time domain body gyroscope jerk signal standard deviation in the Z direction
+ - Time domain body gyroscope jerk signal standard deviation in the Z direction
         -1 to 1
 
 tBodyAccMag-std()
-    - Time domain body accelerometer magnitude signal standard deviation over X, Y, and Z measurements
+ - Time domain body accelerometer magnitude signal standard deviation over X, Y, and Z measurements
         -1 to 1
 
 tGravityAccMag-std()
-    - Time domain gravity accelerometer magnitude signal standard deviation over X, Y, and Z measurements
+ - Time domain gravity accelerometer magnitude signal standard deviation over X, Y, and Z measurements
         -1 to 1
 
 tBodyAccJerkMag-std()
-    - Time domain body accelerometer jerk magnitude signal standard deviation over X, Y, and Z measurements
+ - Time domain body accelerometer jerk magnitude signal standard deviation over X, Y, and Z measurements
         -1 to 1
 
 tBodyGyroMag-std()
-    - Time domain body gyroscope magnitude signal standard deviation over X, Y, and Z measurements
+ - Time domain body gyroscope magnitude signal standard deviation over X, Y, and Z measurements
         -1 to 1
 
 tBodyGyroJerkMag-std()
-    - Time domain body gyroscope jerk magnitude signal standard deviation over X, Y, and Z measurements
+ - Time domain body gyroscope jerk magnitude signal standard deviation over X, Y, and Z measurements
         -1 to 1
 
 fBodyAcc-std()-X
-    - Frequency domain body accelerometer signal standard deviation in the X direction
+ - Frequency domain body accelerometer signal standard deviation in the X direction
         -1 to 1
 
 fBodyAcc-std()-Y
-    - Frequency domain body accelerometer signal standard deviation in the Y direction
+ - Frequency domain body accelerometer signal standard deviation in the Y direction
         -1 to 1
 
 fBodyAcc-std()-Z
-    - Frequency domain body accelerometer signal standard deviation in the Z direction
+ - Frequency domain body accelerometer signal standard deviation in the Z direction
         -1 to 1
 
 fBodyAccJerk-std()-X
-    - Frequency domain body accelerometer jerk signal standard deviation in the X direction
+ - Frequency domain body accelerometer jerk signal standard deviation in the X direction
         -1 to 1
 
 fBodyAccJerk-std()-Y
-    - Frequency domain body accelerometer jerk signal standard deviation in the Y direction
+ - Frequency domain body accelerometer jerk signal standard deviation in the Y direction
         -1 to 1
 
 fBodyAccJerk-std()-Z
-    - Frequency domain body accelerometer jerk signal standard deviation in the Z direction
+ - Frequency domain body accelerometer jerk signal standard deviation in the Z direction
         -1 to 1
 
 fBodyGyro-std()-X
-    - Frequency domain body gyroscope signal standard deviation in the X direction
+ - Frequency domain body gyroscope signal standard deviation in the X direction
         -1 to 1
 
 fBodyGyro-std()-Y
-    - Frequency domain body gyroscope signal standard deviation in the Y direction
+ - Frequency domain body gyroscope signal standard deviation in the Y direction
         -1 to 1
 
 fBodyGyro-std()-Z
-    - Frequency domain body gyroscope signal standard deviation in the Z direction
+ - Frequency domain body gyroscope signal standard deviation in the Z direction
         -1 to 1
 
 fBodyAccMag-std()
-    - Frequency domain body accelerometer magnitude signal standard deviation over X, Y, and Z measurements
+ - Frequency domain body accelerometer magnitude signal standard deviation over X, Y, and Z measurements
         -1 to 1
 
 fBodyBodyAccJerkMag-std()
-    - Frequency domain body accelerometer jerk magnitude signal standard deviation over X, Y, and Z measurements
+ - Frequency domain body accelerometer jerk magnitude signal standard deviation over X, Y, and Z measurements
         -1 to 1
 
 fBodyBodyGyroMag-std()
-    - Frequency domain body gyroscope magnitude signal standard deviation over X, Y, and Z measurements
+ - Frequency domain body gyroscope magnitude signal standard deviation over X, Y, and Z measurements
         -1 to 1
 
 fBodyBodyGyroJerkMag-std()
-    - Frequency domain body gyroscope jerk magnitude signal standard deviation over X, Y, and Z measurements
+ - Frequency domain body gyroscope jerk magnitude signal standard deviation over X, Y, and Z measurements
         -1 to 1
