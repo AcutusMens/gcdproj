@@ -9,15 +9,15 @@
 
 subject
 - Volunteers within an age bracket of 19-48 years
- - 1 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 1
- - 2 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 2
- - 3 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 3
- - 4 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 4
- - 5 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 5
- - 6 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 6
- - 7 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 7
- - 8 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 8
- - 9 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 9
+ - 1 . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Volunteer 1
+ - 2 . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Volunteer 2
+ - 3 . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Volunteer 3
+ - 4 . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Volunteer 4
+ - 5 . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Volunteer 5
+ - 6 . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Volunteer 6
+ - 7 . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Volunteer 7
+ - 8 . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Volunteer 8
+ - 9 . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Volunteer 9
  - 10 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 10
  - 11 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 11
  - 12 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 12
@@ -42,12 +42,12 @@ subject
 
 activity
 - Activity performed while measurements were taken
-  - walking &nbsp;&nbsp;&nbsp;&nbsp; Walking
-  - walking_upstrairs &nbsp;&nbsp;&nbsp;&nbsp; Walking upstairs
-  - waking_downstairs &nbsp;&nbsp;&nbsp;&nbsp; Walking downstairs
-  - sitting &nbsp;&nbsp;&nbsp;&nbsp; Sitting
-  - standing &nbsp;&nbsp;&nbsp;&nbsp; Standing
-  - laying &nbsp;&nbsp;&nbsp;&nbsp; Laying
+  - walking &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Walking
+  - walking_upstrairs &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Walking upstairs
+  - waking_downstairs &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Walking downstairs
+  - sitting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sitting
+  - standing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Standing
+  - laying &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Laying
 
 tBodyAcc-mean()-X
  - Time domain body accelerometer signal mean in the X direction
