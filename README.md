@@ -23,22 +23,11 @@ Multiple .txt pieces of this data set can be put together into one data table as
 7. features
 A. - not an actual file but indicates where a column heading must be created manually
 
-|-------------------------------|
-| A | A |   7 (column names)    |
-|-------------------------------|
-|   |   |                       |
-|   |   |                       |    
-| 3 | 2 |           1           |    
-|   |   |                       |
-|   |   |                       |
-|   |   |                       |
-|-------------------------------|
-|   |   |                       |
-|   |   |                       |
-| 6 | 5 |           4           |  
-|   |   |                       |
-|   |   |                       |
-|-------------------------------|
+
+A|A|7
+3|2|1   
+6|5|4
+
 
 data.table library is used for reading files in because of its speed. Nevertheless you will see many calls to rm() in order to clean up these large chunks as we build one big dataset.
 
