@@ -1,52 +1,53 @@
 ﻿CODEBOOK
 ========
 
-COURSERA GETTING AND CLEANING DATA
-----------------------------------
+##### COURSERA GETTING AND CLEANING DATA
 
-### COURSE PROJECT
+##### COURSE PROJECT
+
+##### VARIABLES (COLUMN NAMES) OF DATASET PRODUCED BY run_analysis.R
 
 subject
 - Volunteers within an age bracket of 19-48 years
- - 1. Volunteer 1
- - 2. Volunteer 2
- - 3. Volunteer 3
- - 4. Volunteer 4
- - 5. Volunteer 5
- - 6. Volunteer 6
- - 7. Volunteer 7
- - 8. Volunteer 8
- - 9. Volunteer 9
- - 10. Volunteer 10
- - 11. Volunteer 11
- - 12. Volunteer 12
- - 13. Volunteer 13
- - 14. Volunteer 14
- - 15. Volunteer 15
- - 16. Volunteer 16
- - 17. Volunteer 17
- - 18. Volunteer 18
- - 19. Volunteer 19
- - 20. Volunteer 20
- - 21. Volunteer 21
- - 22. Volunteer 22
- - 23. Volunteer 23
- - 24. Volunteer 24
- - 25. Volunteer 25
- - 26. Volunteer 26
- - 27. Volunteer 27
- - 28. Volunteer 28
- - 29. Volunteer 29
- - 30. Volunteer 30
+ - 1 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 1
+ - 2 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 2
+ - 3 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 3
+ - 4 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 4
+ - 5 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 5
+ - 6 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 6
+ - 7 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 7
+ - 8 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 8
+ - 9 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 9
+ - 10 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 10
+ - 11 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 11
+ - 12 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 12
+ - 13 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 13
+ - 14 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 14
+ - 15 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 15
+ - 16 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 16
+ - 17 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 17
+ - 18 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 18
+ - 19 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 19
+ - 20 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 20
+ - 21 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 21
+ - 22 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 22
+ - 23 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 23
+ - 24 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 24
+ - 25 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 25
+ - 26 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 26
+ - 27 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 27
+ - 28 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 28
+ - 29 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 29
+ - 30 . &nbsp;&nbsp;&nbsp;&nbsp; Volunteer 30
 
 activity
-    Activity performed while measurements were taken
-        walking                 Walking
-        walking_upstrairs       Walking upstairs
-        waking_downstairs       Walking downstairs
-        sitting                 Sitting
-        standing                Standing
-        laying                  Laying
+- Activity performed while measurements were taken
+  - walking &nbsp;&nbsp;&nbsp;&nbsp; Walking
+  - walking_upstrairs &nbsp;&nbsp;&nbsp;&nbsp; Walking upstairs
+  - waking_downstairs &nbsp;&nbsp;&nbsp;&nbsp; Walking downstairs
+  - sitting &nbsp;&nbsp;&nbsp;&nbsp; Sitting
+  - standing &nbsp;&nbsp;&nbsp;&nbsp; Standing
+  - laying &nbsp;&nbsp;&nbsp;&nbsp; Laying
 
 tBodyAcc-mean()-X
     Time domain body accelerometer signal mean in the X direction
