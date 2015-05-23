@@ -7,37 +7,37 @@ COURSERA GETTING AND CLEANING DATA
 ### COURSE PROJECT
 
 subject
-	Volunteers within an age bracket of 19-48 years
-        1.                      Volunteer 1
-        2.                      Volunteer 2
-        3.                      Volunteer 3
-        4.                      Volunteer 4
-        5.                      Volunteer 5
-        6.                      Volunteer 6
-        7.                      Volunteer 7
-        8.                      Volunteer 8
-        9.                      Volunteer 9
-        10.                     Volunteer 10
-        11.                     Volunteer 11
-        12.                     Volunteer 12
-        13.                     Volunteer 13
-        14.                     Volunteer 14
-        15.                     Volunteer 15
-        16.                     Volunteer 16
-        17.                     Volunteer 17
-        18.                     Volunteer 18
-        19.                     Volunteer 19
-        20.                     Volunteer 20
-        21.                     Volunteer 21
-        22.                     Volunteer 22
-        23.                     Volunteer 23
-        24.                     Volunteer 24
-        25.                     Volunteer 25
-        26.                     Volunteer 26
-        27.                     Volunteer 27
-        28.                     Volunteer 28
-        29.                     Volunteer 29
-        30.                     Volunteer 30
+- Volunteers within an age bracket of 19-48 years
+ - 1. Volunteer 1
+ - 2. Volunteer 2
+ - 3. Volunteer 3
+ - 4. Volunteer 4
+ - 5. Volunteer 5
+ - 6. Volunteer 6
+ - 7. Volunteer 7
+ - 8. Volunteer 8
+ - 9. Volunteer 9
+ - 10. Volunteer 10
+ - 11. Volunteer 11
+ - 12. Volunteer 12
+ - 13. Volunteer 13
+ - 14. Volunteer 14
+ - 15. Volunteer 15
+ - 16. Volunteer 16
+ - 17. Volunteer 17
+ - 18. Volunteer 18
+ - 19. Volunteer 19
+ - 20. Volunteer 20
+ - 21. Volunteer 21
+ - 22. Volunteer 22
+ - 23. Volunteer 23
+ - 24. Volunteer 24
+ - 25. Volunteer 25
+ - 26. Volunteer 26
+ - 27. Volunteer 27
+ - 28. Volunteer 28
+ - 29. Volunteer 29
+ - 30. Volunteer 30
 
 activity
     Activity performed while measurements were taken
